@@ -1,4 +1,4 @@
- import sys
+import sys
 
 # Check if user provided 5 marks through command line
 if len(sys.argv) == 6:
